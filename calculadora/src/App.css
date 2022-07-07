@@ -1,0 +1,39 @@
+.App {
+  height: 100%;
+  padding-top: 10px;
+  background-color: #000000;
+  font-family: Lato, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-logo {
+  width: 100%;
+  height: 50px;
+  margin: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  height: 96px;
+}
+
+.container-calculator {
+  margin: 22px;
+  width: 400px;
+  height: 625px;
+  padding: 14px;
+  background-color: #7f858b;
+  border-radius: 20px;
+}
+
+.fila {
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
